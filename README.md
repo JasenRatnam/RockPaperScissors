@@ -1,5 +1,6 @@
-# rps
-Rock Paper Scissors Game
+# Rock Paper Scissors Game
+Program that plays the game Rock, Paper, Scissors.
+This is Java Console Application .
 
 # Rules
 * If both players choose the same thing, the round is a tie.

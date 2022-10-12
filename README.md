@@ -1,6 +1,5 @@
-# rps-JasenRatnam
-rps-JasenRatnam created by GitHub Classroom
-Rck Paper Scissors Game
+# rps
+Rock Paper Scissors Game
 
 # Rules
 * If both players choose the same thing, the round is a tie.
